@@ -5,3 +5,5 @@ As Kanye West said:
 > the present is our past.
 
 [Käyttöohje](https://github.com/panummi/OTM_laskari5/blob/master/dokumentointi/kaytto_ohje.md)
+
+Uusi lisäys
