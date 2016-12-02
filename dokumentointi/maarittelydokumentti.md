@@ -1,1 +1,2 @@
-<img src="http://yuml.me/diagram/scruffy/class/[Customer]->[Billing Address]" >
+![Kaavio]
+(http://yuml.me/diagram/scruffy/class/[Customer]->[Billing Address])
