@@ -7,3 +7,5 @@ As Kanye West said:
 [Käyttöohje](https://github.com/panummi/OTM_laskari5/blob/master/dokumentointi/kaytto_ohje.md)
 
 Uusi lisäys
+
+[Määrittelydokumentti](https://github.com/panummi/OTM_laskari5/blob/master/dokumentointi/maarittelydokumentti.md)
