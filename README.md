@@ -9,3 +9,5 @@ As Kanye West said:
 Uusi lisäys
 
 [Määrittelydokumentti](https://github.com/panummi/OTM_laskari5/blob/master/dokumentointi/maarittelydokumentti.md)
+
+Muutos
